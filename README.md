@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashpr349/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/yashpr349/leetcode_solution/tree/master/0485-max-consecutive-ones) |
+| [3024-type-of-triangle](https://github.com/yashpr349/leetcode_solution/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashpr349/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/yashpr349/leetcode_solution/tree/master/3024-type-of-triangle) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/yashpr349/leetcode_solution/tree/master/3024-type-of-triangle) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/yashpr349/leetcode_solution/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
