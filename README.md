@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yashpr349/leetcode_solution/tree/master/0258-add-digits) |
+| [2652-sum-multiples](https://github.com/yashpr349/leetcode_solution/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/yashpr349/leetcode_solution/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
