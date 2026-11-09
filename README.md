@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashpr349/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/yashpr349/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashpr349/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/yashpr349/leetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashpr349/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -37,15 +38,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashpr349/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/yashpr349/leetcode_solution/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yashpr349/leetcode_solution/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/yashpr349/leetcode_solution/tree/master/0268-missing-number) |
 | [2652-sum-multiples](https://github.com/yashpr349/leetcode_solution/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/yashpr349/leetcode_solution/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/yashpr349/leetcode_solution/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashpr349/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [3024-type-of-triangle](https://github.com/yashpr349/leetcode_solution/tree/master/3024-type-of-triangle) |
 ## Polygons
@@ -60,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yashpr349/leetcode_solution/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/yashpr349/leetcode_solution/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/yashpr349/leetcode_solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
