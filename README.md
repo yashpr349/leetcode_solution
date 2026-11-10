@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yashpr349/leetcode_solution/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashpr349/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/yashpr349/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashpr349/leetcode_solution/tree/master/0283-move-zeroes) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yashpr349/leetcode_solution/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashpr349/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/yashpr349/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashpr349/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yashpr349/leetcode_solution/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/yashpr349/leetcode_solution/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashpr349/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [3024-type-of-triangle](https://github.com/yashpr349/leetcode_solution/tree/master/3024-type-of-triangle) |
@@ -72,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yashpr349/leetcode_solution/tree/master/0268-missing-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/yashpr349/leetcode_solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/yashpr349/leetcode_solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
