@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/yashpr349/leetcode_solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yashpr349/leetcode_solution/tree/master/0268-missing-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/yashpr349/leetcode_solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/yashpr349/leetcode_solution/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/yashpr349/leetcode_solution/tree/master/3024-type-of-triangle) |
 ## Sorting
