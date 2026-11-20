@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yashpr349/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/yashpr349/leetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashpr349/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/yashpr349/leetcode_solution/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/yashpr349/leetcode_solution/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/yashpr349/leetcode_solution/tree/master/3024-type-of-triangle) |
 ## Two Pointers
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yashpr349/leetcode_solution/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/yashpr349/leetcode_solution/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
