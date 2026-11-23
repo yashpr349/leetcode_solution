@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/yashpr349/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/yashpr349/leetcode_solution/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/yashpr349/leetcode_solution/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2974-minimum-number-game](https://github.com/yashpr349/leetcode_solution/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/yashpr349/leetcode_solution/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yashpr349/leetcode_solution/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/yashpr349/leetcode_solution/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/yashpr349/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [2974-minimum-number-game](https://github.com/yashpr349/leetcode_solution/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/yashpr349/leetcode_solution/tree/master/3024-type-of-triangle) |
 ## Polygons
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/yashpr349/leetcode_solution/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/yashpr349/leetcode_solution/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/yashpr349/leetcode_solution/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/yashpr349/leetcode_solution/tree/master/0344-reverse-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/yashpr349/leetcode_solution/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
